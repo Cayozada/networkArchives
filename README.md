@@ -1,5 +1,5 @@
 # networkArchives
-Esse repositorio e dedicado a subir todos os arquivos referentes a simulação de trafego de redes, feitos atraves do Cisco Packet Tracer.
+Repositório dedicado a subir todos os arquivos referentes a simulação de tráfego de redes, feitos através do Cisco Packet Tracer.
 ### Branchs
 **Main:** Todos os arquivos referentes a simulação de redes cabeadas, com base nos cursos de redes feitos na alura.
 
